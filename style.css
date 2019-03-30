@@ -1,0 +1,50 @@
+/**!---index.html--*/
+#body1 {
+    background-image: url("background2.png");
+    width:auto;
+    height:auto;
+}
+.center {
+    color: white;
+    text-align: center;
+     padding-left:40px;
+    
+}
+
+.lead-center{
+   color: white;
+    text-align: center;
+     padding-left:40px; 
+}
+
+.mdc-button--shaped{
+ padding-left:40px;
+    
+}
+
+a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.container {
+    background-size:cover;
+    background-position:center;
+    padding-top:200px;
+    padding-left:100px;
+    padding-right:100px;
+}
+p {
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+/**!---page1--*/
+ #content {
+    display: block;
+    width: 100%;
+}
