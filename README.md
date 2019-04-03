@@ -1,1 +1,1 @@
-# iMovies-App
+# Movies-App
